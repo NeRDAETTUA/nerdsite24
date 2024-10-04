@@ -515,7 +515,7 @@ video {
 
 #home {
   
-  background-image: url('/img/home.jpg'); /* Caminho da imagem */
+  background-image: url('../img/home.jpg'); /* Caminho da imagem */
   background-size: cover; /* Faz com que a imagem cubra toda a seção */
   background-position: center; /* Centraliza a imagem */
   background-repeat: no-repeat; /* Evita que a imagem se repita */
